@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<ZL_LIST> 
+ <ZGLV > 
+  <DATA>2020-05-22</DATA>
+  <FILENAME>T1-M-1801-2020-05-30.xml</FILENAME>
+ </ZGLV >
+  <ZAP> 
+  <NOM_NAP>1801001380</NOM_NAP>
+  <DTA_NAP>2020-05-21</DTA_NAP> 
+  <FRM_MP>3</FRM_MP> 
+  <MCOD_NAP>1801</MCOD_NAP> 
+  <MCOD_STC>1801</MCOD_STC>
+  <VPOLIS>3</VPOLIS> 
+  <SPOLIS></SPOLIS> 
+  <NPOLIS>3573850895000262</NPOLIS> 
+  <SMO_OGRN>1027739008440</SMO_OGRN> 
+  <ST_OKATO></ST_OKATO> 
+  <FAM>DUMMY</FAM>
+  <IM>ПОЛИНА</IM> 
+  <OT>ПАВЛИНОВНА</OT> 
+  <W>2</W> 
+  <DR>1941-06-04</DR> 
+  <TLF></TLF> 
+  <DS>I48.0</DS>
+  <KOD_PFK>82</KOD_PFK> 
+  <KOD_PFO>71</KOD_PFO> 
+  <KOD_DCT>065-594-238 86</KOD_DCT> 
+  <DTA_PLN>2020-05-25</DTA_PLN> 
+  <USL_OK>1</USL_OK> 
+   </ZAP> 
+ 
+</ZL_LIST> 
